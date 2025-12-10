@@ -2,7 +2,7 @@ onload = () => {
   document.body.classList.remove("container");
 
   setTimeout(() => {
-    alert("Espero que descances bien, preciosa.💗");
-    window.location.href = "https://www.youtube.com/watch?v=nyuo9-OjNNg"; // Reemplaza con el enlace de tu elección
-  }, 10000); // 10000 milisegundos = 15 segundos
+    alert("Estas bien preciosa.💗");
+    window.location.href = "https://music.youtube.com/watch?v=gq-FRSNgK4I&si=VXy1O2u0EvbicJZZ"; // Reemplaza con el enlace de tu elección
+  }, 10000); // 10000 milisegundos
 };
